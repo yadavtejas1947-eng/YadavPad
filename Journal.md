@@ -1,4 +1,4 @@
-Day:02-10-2026
+# Day:02-10-2026
 Things I did today:-
 1.Created the GitHub Repo and setup KiCad
 2.Designed the Schematics and PCB in KiCad
